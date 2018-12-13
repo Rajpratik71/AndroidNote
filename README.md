@@ -465,6 +465,7 @@ Developed By
 ===
 
  * Charon Chui - <charon.chui@gmail.com>
+ * tangzenglei - <shtangzenglei@gmail.com>
 
 
 License
