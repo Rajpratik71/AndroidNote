@@ -467,6 +467,10 @@ Developed By
  * Charon Chui - <charon.chui@gmail.com>
  * tangzenglei - <shtangzenglei@gmail.com>
 
+Maintained By
+===
+
+ * Pratik Raj - <rajpratik71@gmail.com>
 
 License
 ===
